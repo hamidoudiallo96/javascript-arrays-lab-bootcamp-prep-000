@@ -21,7 +21,7 @@ var destructivelyRemoveLastKitten = () =>{
   
 }
 
-var estructivelyRemoveFirstKitten = () =>{
+var destructivelyRemoveFirstKitten = () =>{
   kittens.shift()
   return kittens
 }
