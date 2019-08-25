@@ -40,4 +40,6 @@ var removeLastKitten = () =>{
   
 }
 
-
+var removeFirstKitten = () =>{
+  return [...kittens.slice(1)]
+}
